@@ -39,6 +39,6 @@
 работу с данными и оформление отчетов с помощью SQL-запросов средствами Python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/adriashka/sf_ds_work/blob/master/Projects/project_2_hh/Proect_2_analisys_vacancies_HHru.ipynb)
-
+[Ноутбук с выполненными заданиями и выводами]
+(https://github.com/adriashka/sf_ds_work/blob/master/Projects/project_2_hh/Project_2_analisys_vacancies_HHru.ipynb)
 :arrow_up:[к оглавлению](https://github.com/adriashka/sf_ds_work/blob/master/Projects/project_2_hh/README.md#Оглавление)
